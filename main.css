@@ -1,3 +1,6 @@
-body{
-    background-color: black;
+:root {
+  --primary-color: #0a1118;
+  --primary-color-highlight: #233d54;
+  --bs-body-bg: #FBF0F6;
+  --bs-body-font-family: 'Monstserrat', sans-serif;
 }
